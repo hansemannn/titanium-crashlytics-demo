@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Either write a precompile hook to generate this automatically or change it for every beta build -->
+    <string name="com.crashlytics.android.build_id">0b29e034-8db7-11e8-9eb6-529269fb1459</string>
+</resources>
