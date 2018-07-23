@@ -63,6 +63,7 @@
 			<application>
       			<meta-data android:name="io.fabric.ApiKey" android:value="YOUR_API_KEY" />
 			</application>
+			<uses-permission android:name="android.permission.INTERNET" />
 		</manifest>
 	</android>
 	<modules>
