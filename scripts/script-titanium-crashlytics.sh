@@ -1,0 +1,1 @@
+"../../modules/iphone/ti.crashlytics/1.0.0/platform/Fabric.framework/run" YOUR_API_KEY YOUR_SECRET_KEY
